@@ -7,7 +7,7 @@ I'm running Beta tests, I'd like your cooperation. If the program finds your pas
 Resumen:::::
 Rendex es un programa para encontrar contraseñas y hacer más efectivos los ataques de Fuerza Bruta con el Diccionario, el programa tiene dos variantes que lo hacen adecuado para cualquiera.
 
-Estoy haciendo pruebas Beta, me gustaría su cooperación. Si el programa encuentra tu comentario de contraseña, si no también. Cualquier sugerencia también.
+Estoy haciendo pruebas Beta, me gustaría su cooperación. Si el programa encuentra tu contraseña comentalo, si no también. Cualquier sugerencia es aceptada.
 
 
 Резумен:::::
